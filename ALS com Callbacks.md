@@ -53,4 +53,4 @@ Oque esse código realiza?
 
 11. **Declaração antecipada da função `HOOK_OnPlayerConnect(playerid)`:** Se a constante `HOOK_OnPlayerConnect` estiver definida, declara antecipadamente a função `HOOK_OnPlayerConnect` que recebe o parâmetro `playerid`.
 ## Estrutura de Pastas
-![[Frontend/structure.png]]
+(https://github.com/PawnTeam/ALS-HOOK-s/blob/main/structure.png)
