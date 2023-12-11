@@ -35,7 +35,7 @@ Existem algumas observações úteis que devem ser lembradas para qualquer probl
 
 ## Wiki
 Veja como utilizar ALS em diversas situações abaixo:
-- [[ALS com Callbacks]]
+- [ALS com Callbacks](https://github.com/PawnTeam/ALS-HOOK-s/blob/main/ALS%20com%20Callbacks.md)
 ## Créditos/Referências
 - https://sampforum.blast.hk/showthread.php?tid=574534
 - https://portalsamp.com/showthread.php?tid=4226
